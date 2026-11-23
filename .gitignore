@@ -1,0 +1,11 @@
+*.o
+*.s
+*.a
+/bootsect
+/system
+/user
+/build
+*.bin
+*.out
+bochsout.txt
+/tests/test_unblock
